@@ -13,5 +13,6 @@
 
 2017年开了个微信公众账号，偶尔写几篇文章，培养写作的习惯。
 
-[image:5F9CA16A-BF7C-49DC-9B38-E3DB70930797-312-000079260A3B18C4/前路虽长，尤可期许.jpg]
+![qrcode](https://user-images.githubusercontent.com/15047202/52107340-e55eed00-2630-11e9-969a-3370b1145112.jpg)
+
 
