@@ -8,6 +8,12 @@
 
 ### 前端基础系列
 - [javascript中的防抖、节流](https://github.com/god-david/blog/issues/1)
+- [find()、findIndex()、forEach()、splice()、slice()详解](https://github.com/god-david/blog/issues/2)
+
+
+### React系列
+- [redux基础详解（1）](xxx)
+
 
 ---
 
