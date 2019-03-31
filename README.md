@@ -12,7 +12,7 @@
 
 
 ### React系列
-- [redux基础详解（1）](xxx)
+- [redux基础详解（1）](https://github.com/god-david/blog/issues/3)
 
 
 ---
