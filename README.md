@@ -2,7 +2,7 @@
 
 [掘金](https://juejin.im/user/57b501897db2a20054702769)
 
-[github](https://github.com/god-david)
+[github](https://github.com/von-mo)
 
 [CSDN](https://me.csdn.net/qq_33072593)
 
