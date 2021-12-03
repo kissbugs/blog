@@ -1,6 +1,6 @@
 ## 前路虽长、尤可期许
 
-[掘金](https://juejin.im/user/57b501897db2a20054702769)
+<!-- [掘金](https://juejin.im/user/57b501897db2a20054702769)
 
 [github](https://github.com/von-mo)
 
@@ -13,7 +13,7 @@
 
 ### React系列
 - [redux基础详解（1）](https://github.com/god-david/blog/issues/3)
-
+ -->
 
 ---
 
